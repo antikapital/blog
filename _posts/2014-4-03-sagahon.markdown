@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Estudio Sagahón
+date:   2014-04-03 22:01:33
+categories: jekyll update
+imagen: /portafolio/sagahon.png
+abstract: Proyecto Drupal 7 en base a mosaicos, con bitácora, contenido destacado y panel de administración personalizado
+---
+
+**Hola mundo**
+
+<img src="/portafolio/sagahon1.png" class="img-thumbnail img-responsive">
+<img src="/portafolio/sagahon2.png" class="img-thumbnail img-responsive">
+<img src="/portafolio/sagahon3.png" class="img-thumbnail img-responsive">
