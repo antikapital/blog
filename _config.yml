@@ -2,7 +2,7 @@ title:            Julio César Ibañez Rangel
 description:      web - comunicación
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://antikapital.github.io/
-disqus_shortname: antikapital
+disqus_shortname: juliocesaribanez
 
 # Owner/author information
 owner:
@@ -35,15 +35,15 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: Biografía
     url: /about/
-  - title: Posts
+  - title: Contenidos
     url: /posts/
   - title: Theme Setup
     url: /theme-setup/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Mexico_City
 future:      true
 pygments:    true
 markdown:    kramdown
