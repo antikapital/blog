@@ -28,3 +28,4 @@ y ptras opciones
 > con el uso de un mayor que, se inica que ese tecto es una cita
 
 *entre asteriscos*
+[Enlace rápido](http://google.com)
