@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
+title: Acerca del autor
+tagline: biografia, perfil, curriculum
 tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
 comments: true
@@ -12,19 +12,6 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+## Hola soy Julio César
 
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+Vivo en la Ciudad de México, estudié Comunicación y Cultura y me dedico a la construcción de sitios web desde algunos años atrás; *lo hago profesionalmente desde 2010*. Mi formación es empŕica (*en alto porcentaje*) e incluye una mezcla de habilidades que pasan por el desarrollo de sitios web, periodismo, radio, video, fotografía, branding y comunicación institucional, uso y customización de lenguajes de internet (HTML, CSS, JS) diseño grafico y editorial. Todo el tiempo busco aprender más cosas, y rodearme de personas que gusten de intercambias conocimientos.

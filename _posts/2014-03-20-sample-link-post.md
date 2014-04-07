@@ -7,4 +7,4 @@ link: http://somoselemedio.org
 share: true
 ---
 
-El último proyecto basado en el CMS [Drupal](www.drupal.org) en el que he participado
+El último proyecto basado en el CMS [Drupal](http://drupal.org) en el que he participado
