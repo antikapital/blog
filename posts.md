@@ -1,7 +1,7 @@
 ---
 layout: post-index
 permalink: /posts/
-title: All Posts
-tagline: A List of Posts
+title: Todos los contenidos
+tagline: Lista de Posts
 tags: [blog]
 ---
