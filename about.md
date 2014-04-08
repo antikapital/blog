@@ -40,4 +40,4 @@ Realizo propuestas de diseño con compromiso; generalmente de principio a fin, d
 
 No soy programador, soy más bien un entusiasta de las tecnologías, así he aprendido sobre las herramientas necesarias para comunicar en internet; mis herramientas principales son: [HTML5](http://www.w3.org/html/logo/), [CSS3](http://www.w3.org/Style/CSS/), [Sass](http://sass-lang.com/), [Compass](http://compass-style.org/), [Bootstrap](http://getbootstrap.com/), [Drupal](https://drupal.org/), [Ubuntu](http://www.ubuntu.com/), [Jekyll](http://jekyllrb.com/).
 
-Las claves del desarrollo web se centran el orden de trabajo, la implementación de tecnologías standard, la participación en iniciativas opensource y la actualización continua de implementaciones, mejoras y protocolos de seguridad.
+Las claves del desarrollo web se centran el orden de trabajo, la implementación de tecnologías standard, la participación en iniciativas *opensource* y la actualización continua de implementaciones, mejoras y protocolos de seguridad.
