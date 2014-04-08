@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: Acerca del autor
+title: Hola
 tagline: biografia, perfil, curriculum
 tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
@@ -12,7 +12,7 @@ image:
   creditlink: https://www.flickr.com/photos/charliefoster/
 ---
 
-## Hola
+
 
 #### Complicado describirse sin sentir que has olvidado contar las cosas importantes
 
