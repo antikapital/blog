@@ -8,7 +8,7 @@ disqus_shortname: juliocesaribanez
 owner:
   name:           Julio César Ibañez Rangel
   avatar:         bio-photo.jpg
-  bio:            "Comunicador híbrido. Diseñando para la web, generando contenidos y planes de comunicación, usuario Linux, construyendo un mundo mejor."
+  bio:            "Comunicador híbrido. Diseñando para la web, generando contenidos y planes de comunicación, usuario Linux y promotor del opensource, tratando de un mundo mejor."
   email:          ibanez.rangel.jc@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: anti_kapital        
@@ -35,9 +35,9 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Biografía
+  - title: Sobre mi
     url: /about/
-  - title: Contenidos
+  - title: Blog
     url: /posts/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Blogeando desde terminal con Jekyll"
-description: "Sobre uso de Jekyll"
+title: "Blogeando desde la terminal con Jekyll"
+description: "Sobre el uso del software Jekyll"
 tags: [blog, diseño web, jekyll]
+comments: true
 share: true
 ---
  
@@ -42,7 +43,7 @@ Funcionan maravilloso usando un sistema de control de versiones, puedes administ
 Esta tendencia de desarrollo es una alternativa real para sitios web básicos, landing pages, o curriculums online; y complementada con un servicio de sincronización (git, o rsync desde ssh) es también muy práctica para mantener un blog, siempre que te guste el trabajo desde la terminal, y prefieras trabajar con un editor simple que con un WYSIWYG, si no es así te vendrá mejor continuar con Wordpress.
 
 
-Si el website que trabajas requiere manejo conplejo de datos, esta alternativa tampoco será util, yo usaría Drupal.
+Si el website que trabajas requiere manejo complejo de datos, esta alternativa tampoco será util, yo usaría Drupal.
 
 
-Yo por ahora estoy trabajando con [Jekill](http://jekyllrb.com), porque me parece sencillo y está generando comunidad de usuarios gracias a su posibilidad de alojarlo en un proyecto de [Github](http://github.com), también he probado [S]press, recomiendo ambos.
+Por ahora estoy trabajando con [Jekill](http://jekyllrb.com), porque me parece sencillo y está generando una comunidad de usuarios gracias a la posibilidad de alojarlo en un proyecto de [Github](http://github.com), aquí un buen [tutorial de Andrew Munsell](https://www.andrewmunsell.com/tutorials/jekyll-by-example); también he probado [[s]press](http://spress.yosymfony.com), recomiendo ambos.
