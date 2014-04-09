@@ -27,8 +27,8 @@ owner:
   google_plus: JulioCésarIbañezRangel
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics: UA-47552203-1
+google_verify: googleabea109baa36d387.html  
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hacer medios independientes en México"
+description: "A proposito del segundo aniversario de Somos el medio"
 modified: 2014-04-09 12:27:03 -0500
 category: [somoselmedio.org]
 tags: [medios libres, medios independientes, televisa, el mal medio]
