@@ -12,12 +12,14 @@ comments: true
 share: true
 ---
 
-##A proposito del segundo aniversario de somoselmedio.org
 
-<figure class="half">
-    <a href="http://www.somoselmedio.org/sites/default/files/styles/front/public/main/blogposts/javieremot.jpg?itok=viqBMgJa"><img src="http://www.somoselmedio.org/sites/default/files/styles/front/public/main/blogposts/javieremot.jpg?itok=viqBMgJa"></a>
+
+<figure>
+    <img src="http://www.somoselmedio.org/sites/default/files/styles/front/public/main/blogposts/javieremot.jpg?itok=viqBMgJa">
     <figcaption>Fotografía de Javier Armas CC-BY</figcaption>
 </figure>
+
+### A proposito del segundo aniversario de somoselmedio.org
 
 El desarrollo tecnológico de la web permite que día a día resulte más sencillo publicar contenidos online: textos, audios, videos, transmisiones en tiempo real y combinaciones de formatos que siguen sorprendiéndonos, pero frente al discurso de apertura y democratización de la comunicación por medio de internet, algunos creemos que simplemente se reproduce la lógica de los medios de comunicación tradicional; la comunicación masiva sigue manteniendo un perfil hegemónico y aunque pueden existir millones de nuevas fuentes de información y comunicación online, éstas siguen resultando marginales y desconocidas para el ciber-usuario promedio.
 
@@ -31,4 +33,4 @@ De esta manera realizamos la reflexión en somoselemedio.org, no creemos en la f
 
 Pero especialmente estamos convencidos de que nuestros esfuerzos se articulan con los de muchos otros comunicadores independientes, que desde distintos escenarios y perspectivas producimos un metalenguaje informativo independiente, en el cual aprendemos, compartimos, nos solidarizamos y desde ahí cambiamos nuestra realidad.
 
-##### *Publicado originalmente en [somoselmedio.org](http://www.somoselmedio.org/)*
+*Publicado originalmente en [somoselmedio.org](http://www.somoselmedio.org/)*
