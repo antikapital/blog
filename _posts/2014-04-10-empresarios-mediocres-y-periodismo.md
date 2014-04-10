@@ -14,6 +14,7 @@ share: true
 
 Las discusiones más recientes respecto a la labor del periodismo independiente y los medios libres en México está tomando nuevos cauces; hasta ahora la mayoría de los colectivos de comunicadores independientes se han generado en relación directa con los movimientos sociales y políticos en los cuales participan sus miembros, y ante la necesidad de visibilizar sus objetivos y hacer oposición a las lineas editoriales reaccionarias de los medios *convencionales* y hegemónicos.
 
+
 Seguramente este fenómeno no cambiará, por el contrario se incrementará mientras continuemos teniendo medios de comunicación masiva tan alejados del sentir de la población, y tan empeñados en despreciar de modo soberbio a la comunicación ciudadana frente a su auto-denominado *"periodismo profesional"*.
 
 Originalmente los comunicadores independientes buscaron generar canales para hacer llegar mensajes, esa era la complicación principal, pero a cambio la audiencia necesitada de fuentes alternativas los "encontró", difundió su propuesta y respaldó su actividad. Ahora los retos son mayores, los canales son fáciles de montar gracias a internet (video, imagen, audio, texto, streaming), pero la audiencia está dispersa, internet es al mismo tiempo una gran cortina de humo.
@@ -38,7 +39,8 @@ No es para escandalizar, es la naturaleza del capitalismo-imperial, y lo mismo h
 
 El fin de un medio-negocio es vender, ese es el objetivo y no más; lo demás es sólo la imagen del producto, los típicos *slogans* del estilo: **"comprometidos con la verdad", "el diario de la vida nacional", "el que dice lo que otros callan"** son frases de mercadotecnia que nada tienen que ver con sus verdaderos objetivos, intereses y comportamientos.
 
-El periodismo hecho por los medios-negocio es mediocre, no tiene convicción ni ética, su interés se centra en resultar atractivo en encabezados, imágenes y diseño y tienen un ejercito de trabajadores para este fin. Mediocre porque no tiene compromiso con el lector, no llega al fondo de los temas, busca invisibilizar a miles de personas para visibilizar al "dirigente"; es prejuicioso, de lenguaje racista, clasista y violento, acostumbra estigmatizar a los movimientos sociales y busca asociarlos con personajes, muchas veces sin pruebas; un ejemplo en este fragmento de la columna de Carlos Loret de Mola del miércoles 9 de abril en *El universal*:
+El periodismo hecho por los medios-negocio es mediocre, no tiene convicción ni ética, su interés se centra en resultar atractivo en encabezados, imágenes y diseño y tienen un ejercito de trabajadores para este fin. Mediocre porque no tiene compromiso con el lector, no llega al fondo de los temas, busca invisibilizar a miles de personas para visibilizar al "dirigente"; es prejuicioso, de lenguaje racista, clasista y violento, acostumbra estigmatizar a los movimientos sociales y busca asociarlos con personajes, muchas veces sin pruebas.
+Un ejemplo de este tipo de comportamientos en un fragmento de la columna de Carlos Loret de Mola del miércoles 9 de abril en *El universal*:
 
 >Identifican además a la activista Rosa Isela Martínez como coordinadora política y financiera de una operación que vincula a los principales líderes del grupo Frente Oriente con políticos como el ex diputado Gerardo Fernández Noroña y el Movimiento de Regeneración Nacional de Andrés Manuel López Obrador.
 
@@ -46,6 +48,6 @@ Los medios-negocio viven tras "la nota" como en una carrera de velocidad, le sac
 
 ### Periodismo humano
 
-Frente al escenario del negocio sin escrúpulos el periodismo independiente debe justificar la utilidad social de su existencia, debe desplegar a la ética como su bandera principal y debe disponer de espíritu humanista, de un lenguaje tolerante que posibilite el desarrollo, la democracia, la justicia y la libertad para las personas y pueblos en los que se desarrolla.
+Frente al escenario del negocio sin escrúpulos el periodismo independiente debe justificar la utilidad social de su existencia, debe desplegar a la ética como su bandera principal y debe disponer de espíritu humanista, de un lenguaje tolerante que posibilite el desarrollo, la democracia, la justicia y la libertad para las personas y pueblos en los que se realiza.
 
 Además debe solidificar y transparentar sus estructuras de financiamiento, esto sumado al párrafo anterior, puede posibilitar que en un futuro cercano los ciudadanos mantengamos de manera directa la economía de nuestros medios independientes, comunitarios o locales de información y entretenimiento.
