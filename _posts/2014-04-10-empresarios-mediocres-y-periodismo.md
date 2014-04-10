@@ -13,8 +13,7 @@ share: true
 ---
 
 Las discusiones más recientes respecto a la labor del periodismo independiente y los medios libres en México está tomando nuevos cauces; hasta ahora la mayoría de los colectivos de comunicadores independientes se han generado en relación directa con los movimientos sociales y políticos en los cuales participan sus miembros, y ante la necesidad de visibilizar sus objetivos y hacer oposición a las lineas editoriales reaccionarias de los medios *convencionales* y hegemónicos.
-
-
+<br/>
 Seguramente este fenómeno no cambiará, por el contrario se incrementará mientras continuemos teniendo medios de comunicación masiva tan alejados del sentir de la población, y tan empeñados en despreciar de modo soberbio a la comunicación ciudadana frente a su auto-denominado *"periodismo profesional"*.
 
 Originalmente los comunicadores independientes buscaron generar canales para hacer llegar mensajes, esa era la complicación principal, pero a cambio la audiencia necesitada de fuentes alternativas los "encontró", difundió su propuesta y respaldó su actividad. Ahora los retos son mayores, los canales son fáciles de montar gracias a internet (video, imagen, audio, texto, streaming), pero la audiencia está dispersa, internet es al mismo tiempo una gran cortina de humo.
