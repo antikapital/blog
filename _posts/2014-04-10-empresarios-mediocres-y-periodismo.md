@@ -13,7 +13,7 @@ share: true
 ---
 
 Las discusiones más recientes respecto a la labor del periodismo independiente y los medios libres en México está tomando nuevos cauces; hasta ahora la mayoría de los colectivos de comunicadores independientes se han generado en relación directa con los movimientos sociales y políticos en los cuales participan sus miembros, y ante la necesidad de visibilizar sus objetivos y hacer oposición a las lineas editoriales reaccionarias de los medios *convencionales* y hegemónicos.
-<br/>
+
 Seguramente este fenómeno no cambiará, por el contrario se incrementará mientras continuemos teniendo medios de comunicación masiva tan alejados del sentir de la población, y tan empeñados en despreciar de modo soberbio a la comunicación ciudadana frente a su auto-denominado *"periodismo profesional"*.
 
 Originalmente los comunicadores independientes buscaron generar canales para hacer llegar mensajes, esa era la complicación principal, pero a cambio la audiencia necesitada de fuentes alternativas los "encontró", difundió su propuesta y respaldó su actividad. Ahora los retos son mayores, los canales son fáciles de montar gracias a internet (video, imagen, audio, texto, streaming), pero la audiencia está dispersa, internet es al mismo tiempo una gran cortina de humo.
@@ -50,3 +50,5 @@ Los medios-negocio viven tras "la nota" como en una carrera de velocidad, le sac
 Frente al escenario del negocio sin escrúpulos el periodismo independiente debe justificar la utilidad social de su existencia, debe desplegar a la ética como su bandera principal y debe disponer de espíritu humanista, de un lenguaje tolerante que posibilite el desarrollo, la democracia, la justicia y la libertad para las personas y pueblos en los que se realiza.
 
 Además debe solidificar y transparentar sus estructuras de financiamiento, esto sumado al párrafo anterior, puede posibilitar que en un futuro cercano los ciudadanos mantengamos de manera directa la economía de nuestros medios independientes, comunitarios o locales de información y entretenimiento.
+
+Publicado originalmente ern [Somoselmedio.org](http://www.somoselmedio.org/).

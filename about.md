@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: Hola
 tagline: biografia, perfil, curriculum
-tags: [about, Jekyll, theme, responsive]
+tags: [biografia, perfil, curriculum]
 modified: 9-9-2013
 comments: false
 image:
@@ -16,9 +16,9 @@ image:
 
 #### Complicado describirse sin sentir que has olvidado contar las cosas importantes
 
-Vivo en la Ciudad de México, estudié Comunicación y Cultura; y me dedico a la construcción de sitios web y desarrollo de contenidos para la red desde ocho años atrás *(lo hago profesionalmente desde 2010)*.
+Vivo en la Ciudad de México, estudié Comunicación y Cultura; y me dedico a la construcción de sitios web y desarrollo de contenidos para la red desde siete años atrás *(lo hago profesionalmente desde 2010)*.
 
-Mi formación es en gran medida empírica e incluye una mezcla de habilidades que pasan por el desarrollo de sitios web, periodismo, radio, video, fotografía, branding y comunicación institucional, manejo y customización de lenguajes y tecnologías de internet, diseño gráfico y editorial. 
+Mi formación es en gran medida empírica e incluye una mezcla de habilidades que pasan por el desarrollo de sitios web, periodismo, radio, video, fotografía, branding y comunicación institucional, diseño gráfico y editorial. 
 
 Busco aprender cosas nuevas en todo momento, y me gusta rodearme de personas que intercambian sus conocimientos y tienen iniciativa.
 
@@ -26,9 +26,6 @@ Busco aprender cosas nuevas en todo momento, y me gusta rodearme de personas que
 
 La comunicación es la herramienta principal de mi trabajo, motiva mis reflexiones sobre sus usos, resultados y los procesos que genera en todos los ámbitos de la sociedad. Es una actividad estrechamente ligada a la naturaleza humana y por lo tanto es motor del desarrollo de nuestra especie; así lo creo y esa es la visión que impregno a cada proyecto en el que me involucro.
 
->La comunicación es el eje transversal de internet
-
-Legado de mi formación académica, me resulta imposible concebir a plataformas y productos comunicativos como objetos exclusivamente utilitarios, sino más bien como parte de un ecosistema comunicativo complejo, en el cual podemos incidir con una estrategia pertinente.
 
 ###Diseñador
 
