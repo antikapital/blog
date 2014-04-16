@@ -2,16 +2,13 @@
 layout: page
 permalink: /about/
 title: Hola
-tagline: biografia, perfil, curriculum
-tags: [biografia, perfil, curriculum]
-modified: 9-9-2013
+tags: [Julio, julio césar, ibañez, webdesign, comunicación y cultura, mexico, drupal, jekyll, diseñador web, periodismo web]
 comments: false
 image:
-  feature: charlie_foster_fragmento.jpg
-  credit: Charlie Foster
-  creditlink: https://www.flickr.com/photos/charliefoster/
+  feature: julian_carvajal.jpg
+  credit: Julian Carvajal
+  creditlink: https://www.flickr.com/photos/31381897@N03/
 ---
-
 
 
 #### Complicado describirse sin sentir que has olvidado contar las cosas importantes
