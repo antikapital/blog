@@ -3,6 +3,10 @@ layout: post
 title: "Blogeando desde la terminal con Jekyll"
 description: "Sobre el uso del software Jekyll"
 tags: [blog, diseño web, jekyll]
+image:
+  feature: scalibur001.jpg 
+  credit: Carlos Rosas
+  creditlink: https://www.flickr.com/photos/scalibur001/
 comments: true
 share: true
 ---
