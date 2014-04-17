@@ -5,9 +5,9 @@ description: "Las tareas inmediatas para oponerse a los medios-negocio"
 category: elmalmedio
 tags: [medios libres, medios independientes, televisa, el mal medio]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature: cesar_guadarrama.jpg 
+  credit: César Guadarrama
+  creditlink: https://www.flickr.com/
 comments: true 
 share: true
 ---
