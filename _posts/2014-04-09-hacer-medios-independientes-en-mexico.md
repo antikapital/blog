@@ -6,19 +6,12 @@ modified: 2014-04-09 12:27:03 -0500
 category: [somoselmedio.org]
 tags: [medios libres, medios independientes, televisa, el mal medio]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature: javier_arenas.jpg
+  credit: Javier Armas
+  creditlink: https://www.flickr.com/photos/javieremot/
 comments: true 
 share: true
 ---
-
-
-
-<figure>
-    <img src="http://www.somoselmedio.org/sites/default/files/styles/front/public/main/blogposts/javieremot.jpg?itok=viqBMgJa">
-    <figcaption>Fotografía de Javier Armas CC-BY</figcaption>
-</figure>
 
 ### A proposito del segundo aniversario de somoselmedio.org
 
