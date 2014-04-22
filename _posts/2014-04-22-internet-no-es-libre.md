@@ -1,17 +1,16 @@
 ---
 layout: post
 title: "Internet no es libre, la censura ocurre todos los días"
-description: "La ley Peña-Televisa sólo legitimará, ¿entonces qué hacemos?"
-modified: 2014-04-22 13:04:50 -0500
-category: []
-tags: [televisa, peña nieto, #contraelsilenciomx, EPNvsInternet]
+description: "Ley Peña-Televisa sólo legitimará, ¿entonces qué hacemos?"
+tags: [televisa, peña nieto, #contraelsilenciomx, #EPNvsInternet]
 image:
   feature: asesino.jpg
   credit: Javier Armas
   creditlink: https://www.flickr.com/photos/javieremot/
-comments: 
-share: 
+comments: true 
+share: true
 ---
+
 
 > ¿Por qué quiere Microsoft regalar copias casi gratuitas [del sistema operativo Windows] a escuelas y niños?, es como regalar drogas adictivas, ya que la primera dosis es gratis pero, después de volverte dependiente, tienes que pagar. **Richard Stallman**
 
