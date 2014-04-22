@@ -6,22 +6,6 @@
     
     
     <url>
-        <loc>http://antikapital.github.io//posts/</loc>
-    </url>
-    
-    <url>
-        <loc>http://antikapital.github.io//index.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://antikapital.github.io//sitemap.xml</loc>
-    </url>
-    
-    <url>
-        <loc>http://antikapital.github.io//about/</loc>
-    </url>
-    
-    <url>
         <loc>http://antikapital.github.io//404.html</loc>
     </url>
     
@@ -29,7 +13,27 @@
         <loc>http://antikapital.github.io//feed.xml</loc>
     </url>
     
+    <url>
+        <loc>http://antikapital.github.io//about/</loc>
+    </url>
+    
+    <url>
+        <loc>http://antikapital.github.io//posts/</loc>
+    </url>
+    
+    <url>
+        <loc>http://antikapital.github.io//sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://antikapital.github.io//index.html</loc>
+    </url>
+    
 
+    
+    <url>
+        <loc>http://antikapital.github.io//internet-no-libre/</loc>
+    </url>
     
     <url>
         <loc>http://antikapital.github.io//drupal-es-para/</loc>

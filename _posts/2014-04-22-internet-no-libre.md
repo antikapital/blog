@@ -2,7 +2,6 @@
 layout: post
 title: "Internet no es libre, la censura ocurre todos los días"
 description: "Ley Peña-Televisa sólo legitimará, ¿entonces qué hacemos?"
-tags: [televisa, peña nieto, #contraelsilenciomx, #EPNvsInternet]
 image:
   feature: asesino.jpg
   credit: Javier Armas
