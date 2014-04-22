@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://antikapital.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://antikapital.github.io/" />
-<updated>2014-04-16T14:02:44-05:00</updated>
+<updated>2014-04-20T13:32:31-05:00</updated>
 <id>http://antikapital.github.io//</id>
 <author>
   <name>Julio César Ibañez Rangel</name>
@@ -14,20 +14,61 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Drupal, invitando a conocer]]></title>
-  <link rel="alternate" type="text/html" href="http://antikapital.github.io//drupal-invitando-a-conocer/" />
-  <id>http://antikapital.github.io//drupal-invitando-a-conocer</id>
-  <updated>2014-04-16 13:26:40 -0500T00:00:00-00:00</updated>
+  <title type="html"><![CDATA[Drupal es para: ¿novatos, expertos, humanos o geeks?]]></title>
+  <link rel="alternate" type="text/html" href="http://antikapital.github.io//drupal-es-para/" />
+  <id>http://antikapital.github.io//drupal-es-para</id>
   <published>2014-04-16T00:00:00-05:00</published>
-  
+  <updated>2014-04-16T00:00:00-05:00</updated>
   <author>
     <name>Julio César Ibañez Rangel</name>
     <uri>http://antikapital.github.io/</uri>
     <email>ibanez.rangel.jc@gmail.com</email>
   </author>
-  <content type="html">&lt;h3 id=&quot;lk&quot;&gt;ñlk&lt;/h3&gt;
+  <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;A proposito del &lt;strong&gt;Drupal Camp México 2014&lt;/strong&gt; los días 23, 24 y 25 de abril en la UNAM, una reflexión para quienes recién se acercan a &lt;a href=&quot;http://drupal.org/&quot;&gt;Drupal&lt;/a&gt; en México, esperando se integren a esta comunidad.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://antikapital.github.io//drupal-invitando-a-conocer/&quot;&gt;Drupal, invitando a conocer&lt;/a&gt; was originally published by Julio César Ibañez Rangel at &lt;a href=&quot;http://antikapital.github.io/&quot;&gt;Julio César Ibañez Rangel&lt;/a&gt; on April 16, 2014.&lt;/p&gt;</content>
+&lt;h3 id=&quot;comenzar-por-el-principio-pero-cul-es&quot;&gt;Comenzar por el principio, pero… ¿cuál es?&lt;/h3&gt;
+
+&lt;p&gt;Los desarrollos informáticos son tan variados que actualmente es imposible establecer un orden secuencial sobre la manera de conocer, desarrollar y usar alguna tecnología en particular. Claro está que si uno decide aprender se pone al tanto, tarde que temprano, en aspectos fundamentales que trascienden lo informático, por ejemplo saber algo de: lenguajes de programación, entornos de desarrollo y producción, aritmética, álgebra, inglés y español (léase lenguaje de origen), etc.&lt;/p&gt;
+
+&lt;p&gt;Así pues en mi opinión, no existe requisito previo para aprender Drupal, mucho menos para involucrarse con sus conocimientos previos a proyectos drupaleros y para contribuir con la comunidad global de Drupal.&lt;/p&gt;
+
+&lt;p&gt;Parece que el camino natural para desarrollar en Drupal pasa por el estudio formal de profesiones informáticas, pero hoy día también lo hacemos muchos &lt;em&gt;mixeados&lt;/em&gt;, diseñadores, traductores, marketeros, hacktivistas, empresarios, comunicadores, religiosos, empleados de gobierno, etc. No se trata de una invasión a la profesión informática, sino del complemento de una comunidad de usuarios exitosa, en términos sociales, usuarios que establecemos un compromiso con esta iniciativa.&lt;/p&gt;
+
+&lt;p&gt;Nadie nació siendo experto, y quien es experto en perros no necesariamente lo es en gatos, así que el único secreto para ser experto es la práctica y la dedicación.&lt;/p&gt;
+
+&lt;h3 id=&quot;empezar-con-drupal-como-entrar-por-la-puerta-grande&quot;&gt;Empezar con Drupal; como entrar por la puerta grande&lt;/h3&gt;
+
+&lt;p&gt;Entonces, seguro que puedes comenzar escribiendo-diseñando-desarrollando tus propias aplicaciones web, con lenguajes &lt;em&gt;puros&lt;/em&gt;, pero en poco tiempo verás que no es posible igualar lo que hacen miles de personas trabajando simultáneamente, esa es la ventaja de usar un software de código abierto, y con una comunidad tan robusta como Drupal.&lt;/p&gt;
+
+&lt;p&gt;Mientras más grande es la comunidad, más posibilidades existen de que alguien en este planeta ya haya solucionado algo como lo que tu buscas, o que puedan colaborar juntos en nuevas soluciones.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;En Drupal, llegas por el software pero te quedas por las personas&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sin duda comenzar con Drupal es una gran inversión para el futuro, porque aprendiendo sobre su funcionamiento puedes tener un entorno de desarrollo muy completo, y no tendrás que andar de un lado a otro cuando las necesidades del proyecto que trabajas crezcan, además siempre habrá personas dispuestas a ayudarte.&lt;/p&gt;
+
+&lt;h3 id=&quot;mi-experiencia-propia&quot;&gt;Mi experiencia propia&lt;/h3&gt;
+
+&lt;p&gt;Soy comunicador por formación, conocí Drupal como herramienta para publicar, me gustó, aprendí un poco sobre su funcionamiento, flexibilidad y estabilidad tecnológica, me convertí en entusiasta autodidacta, y como al principio, sigo teniendo &lt;em&gt;millones&lt;/em&gt; de dudas cuando leo foros especializados y platico con programadores. Pero no me preocupan, como &lt;em&gt;site-builder&lt;/em&gt; tengo otros problemas a resolver.&lt;/p&gt;
+
+&lt;p&gt;Cada usuario de Drupal tiene sus propias necesidades y objetivos, sean: económicos, personales, políticos, académicos, ideológicos, etc. Pero todos tenemos en común el uso de la plataforma, y por lo tanto la responsabilidad de aportar a ella, como nos resulte posible.&lt;/p&gt;
+
+&lt;p&gt;Usar Drupal no ha resultado del todo sencillo, es la curva de aprendizaje que tanto temen los desarrolladores de web que usan otros &lt;em&gt;softwares&lt;/em&gt; o &lt;em&gt;frameworks&lt;/em&gt; centrados en el diseño, y varias veces me he visto forzado a detener mis avances en Drupal para conocer otras tecnologías o lenguajes necesarios para continuar.&lt;/p&gt;
+
+&lt;p&gt;Pero definitivamente esta curva fortalece, yo no pretendo convertirme en desarrollador web aunque ahora puedo comprenderlos &lt;em&gt;un poquito&lt;/em&gt;, y de las aplicaciones que cocinan; también esta curva me ayudó a conocer trucos que seguro que si me hubiera quedado armando websites en Wordpress y Joomla no conocería; esa es ganancia personal, trabajo más rápido y tengo ventajas en el mercado de trabajo.&lt;/p&gt;
+
+&lt;h3 id=&quot;nuevas-perspectivas-drupaleras&quot;&gt;Nuevas perspectivas drupaleras&lt;/h3&gt;
+
+&lt;p&gt;Sobre el próximo lanzamiento de &lt;strong&gt;Drupal 8&lt;/strong&gt; se han comentado grandes cambios y mejoras, pero algo que en especial me entusiasma es la decisión de atender la interfaz del usuario final, esto puede atraer a muchos entusiastas al uso de Drupal, y al mismo tiempo generar negocios, &lt;em&gt;learning&lt;/em&gt;, y crecimiento de la comunidad en general. La inmensa ventaja de este &lt;em&gt;software&lt;/em&gt; es que es tan escalable como se quiera, y con la implementación de otros proyectos &lt;em&gt;Open Source&lt;/em&gt; puede encontrar nuevas plataformas de aplicación. Ya estaremos mirando sus posibilidades.&lt;/p&gt;
+
+&lt;p&gt;Considero que Drupal debe crecer en su uso, el ejemplo más claro de este fenómeno es el del software de blogs &lt;em&gt;Wordpress&lt;/em&gt;, el más famoso y usado en el mundo (no quiero decir que todos los proyectos del mundo instalen Drupal, ni que es el camino a seguir; antes de que se enojen los &lt;em&gt;developers&lt;/em&gt;). Wordpress es famoso por fácil, las agencias de diseño web, los periodistas, los estudiantes, amas de casa, en fin; los internautas se enteraron de que había un sofware con el cual publicar, sin más.&lt;/p&gt;
+
+&lt;p&gt;Ahora deben saber que pueden publicar, como quieran, como lo imaginen, sin límites, eso deberá ser Drupal, fácil y muy poderoso.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://antikapital.github.io//drupal-es-para/&quot;&gt;Drupal es para: ¿novatos, expertos, humanos o geeks?&lt;/a&gt; was originally published by Julio César Ibañez Rangel at &lt;a href=&quot;http://antikapital.github.io/&quot;&gt;Julio César Ibañez Rangel&lt;/a&gt; on April 16, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -101,12 +142,7 @@ Un ejemplo de este tipo de comportamientos en un fragmento de la columna de Carl
     <uri>http://antikapital.github.io/</uri>
     <email>ibanez.rangel.jc@gmail.com</email>
   </author>
-  <content type="html">&lt;figure&gt;
-    &lt;img src=&quot;http://www.somoselmedio.org/sites/default/files/styles/front/public/main/blogposts/javieremot.jpg?itok=viqBMgJa&quot; /&gt;
-    &lt;figcaption&gt;Fotografía de Javier Armas CC-BY&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;a-proposito-del-segundo-aniversario-de-somoselmedioorg&quot;&gt;A proposito del segundo aniversario de somoselmedio.org&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;a-proposito-del-segundo-aniversario-de-somoselmedioorg&quot;&gt;A proposito del segundo aniversario de somoselmedio.org&lt;/h3&gt;
 
 &lt;p&gt;El desarrollo tecnológico de la web permite que día a día resulte más sencillo publicar contenidos online: textos, audios, videos, transmisiones en tiempo real y combinaciones de formatos que siguen sorprendiéndonos, pero frente al discurso de apertura y democratización de la comunicación por medio de internet, algunos creemos que simplemente se reproduce la lógica de los medios de comunicación tradicional; la comunicación masiva sigue manteniendo un perfil hegemónico y aunque pueden existir millones de nuevas fuentes de información y comunicación online, éstas siguen resultando marginales y desconocidas para el ciber-usuario promedio.&lt;/p&gt;
 
