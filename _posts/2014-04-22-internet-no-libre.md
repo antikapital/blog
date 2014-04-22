@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet no es "libre", la censura ocurre todos los días"
+title: "Internet no es libre, la censura ocurre todos los días"
 description: "Ley Peña-Televisa sólo legitimará, ¿entonces qué hacemos?"
 image:
   feature: asesino.jpg
@@ -17,19 +17,19 @@ share: true
 
 Es alentador que millones de mexicanos se manifiesten por defenderse de lo que en su perspectiva implica la censura de redes sociales por parte del gobierno y monopolios empresariales; los *HT* **[#NoMásPoderAlPoder](https://twitter.com/search?q=%23NoM%C3%A1sPoderAlPoder&src=hash)**. **[#EPNvsInternet](https://twitter.com/search?q=%23EPNvsInternet&src=hash)** y **[#ContraElSilencioMX](https://twitter.com/search?q=%23ContraElSilencioMX&src=hash)** muestran que existe un repudio generalizado a esta posibilidad. Lamentablemente, siendo rigurosos,  detener la aprobación de la ley Peña-Televisa no nos dará mejores condiciones, la censura, el abuso empresarial, el espionaje y la suspensión de servicios ocurren, y ocurrirán, con o sin ley.
 
-Escándalos de espionaje como los que revela la información de [WikiLeaks](https://wikileaks.org/) o lo documentado por *Edward Snowden* dejan claro que ningún gobierno del planeta se detendrá ante la existencia o carencia de alguna ley para obtener la información de internet que considere importante para su operación, del mismo modo que las grandes empresas o incluso las organizaciones criminales (estrechamente ligados los intereses de estos tres actores en el tema); así que una reglamentación como la que está por aprobar el congreso mexicano no cambia en gran medida estas prácticas, únicamente brindará un marco legal para justificarlas.
+Escándalos de espionaje como los que revela la información de [WikiLeaks](https://wikileaks.org/) o lo documentado por *Edward Snowden* dejan claro que ningún gobierno del planeta se detendrá ante la existencia o carencia de alguna ley para obtener la información de internet que considere importante para su operación, del mismo modo las grandes empresas e incluso las organizaciones criminales (que ligados que se encuentran los intereses de estos tres actores); así que una reglamentación como la que está por aprobar el congreso mexicano no cambia en gran medida estas prácticas, únicamente brindará un marco legal para justificarlas.
 
-No quiere decir que no haya opción, ni que debemos resignarnos a ser espiados y censurados, pero tampoco debemos centrar todas nuestras esperanzas en la legislación, especialmente cuando el gobierno mexicano es un violador compulsivo del marco jurídico (como muestran informes sobre violaciones a DDHH).
+No quiere decir que no haya opción, ni que debemos resignarnos a ser espiados y censurados, pero tampoco debemos centrar todas nuestras esperanzas en la legislación, especialmente cuando el gobierno mexicano es un violador compulsivo del marco jurídico (ejemplo de ello en informes sobre violaciones a DDHH realizados por las ONG).
 
-El primer paso para *prevenir* atentados contra nuestros derechos de usuarios de internet es dejar de ser internautas ignorantes, tenemos que generar una cultura de aprendizaje informático en conceptos básicos sobre el funcionamiento de las TIC y conocer las opciones de libertad que podemos tener disponibles.
+El primer paso para *prevenir* que atenten contra nuestros derechos de usuarios de internet es dejar de ser internautas ignorantes, tenemos que generar una cultura de aprendizaje informático en conceptos básicos sobre el funcionamiento de las TIC y conocer las opciones de libertad que podemos tener disponibles.
 
-Creer que se molesta a *Adobe* o a *Microsoft* por usar una copia *crackeada* de sus paquetes informáticos es una fantasía, en realidad se está promoviendo su hegemonía y más bien se pone en riesgo la libertad del usuario, pueden hacer lo que deseen con la información; lo que realmente les perjudica es dejar de usar sus tecnologías sustituyéndolas con Software libre que puede realizar las mismas tareas, en ocasiones de mejor manera.
+Creer que se molesta a Adobe o a Microsoft por usar una copia *crackeada* de sus paquetes informáticos es una fantasía, en realidad se está promoviendo su hegemonía y más bien se pone en riesgo la libertad del usuario, pueden hacer lo que deseen con la información; lo que realmente les perjudica es dejar de usar sus tecnologías sustituyéndolas con Software libre que puede realizar las mismas tareas, en ocasiones de mejor manera.
 
-Para mala fortuna de los internautas los puntos más polémicos de la legislación por aprobar ya se ejecutan con naturalidad por gobierno y empresas, aquí ejemplos:
+Los puntos más polémicos de la legislación por aprobar ya se ejecutan, aquí ejemplos:
 
 ### Investigación y persecución de usuarios
 
-La posibilidad de auditar cuentas de usuario en servicios de redes sociales o email existe, se ejecuta y es legal, porque cuando nos inscribimos a estos sitios firmamos un "contrato" de conformidad con sus políticas, incluso con los cambios que estas sufran, Facebook publicó un [Informe de transparencia de solicitudes de información hechas por gobiernos en 2013](https://www.facebook.com/about/government_requests) en una estrategia por legitimarse después de los escándalos de espionaje en EUA, el informe dice que el gobierno de México realizó 78 solicitudes, que involucran a 127 cuentas, de las cuales la empresa facilitó el 37% de la información requerida. Eso mismo sucede con los demás servicios en linea, si el gobierno puede fundamentar la solicitud, la información se entrega.
+La posibilidad de auditar cuentas de usuario en servicios de redes sociales o email existe, se ejecuta y es legal, porque cuando nos inscribimos a estos sitios firmamos un "contrato" de conformidad con sus políticas, incluso con los cambios que estas sufran, Facebook publicó un [https://www.facebook.com/about/government_requests](Informe de transparencia de solicitudes de información hechas por gobiernos en 2013) en una estrategia por legitimarse después de los escándalos de espionaje mencionados, el informe dice que el gobierno de México realizó 78 solicitudes, que involucran a 127 cuentas, de las cuales la empresa facilitó el 37% de la información requerida. Eso mismo sucede con los demás servicios en linea.
 
 ### Clausura de páginas web
 
@@ -41,13 +41,11 @@ Esto es muy grave, cancelar la señal de un medio por orden gubernamental es fas
 
 Otra estrategia conocida es la de *ensuciar* los canales de comunicación como sucede frecuentemente en Twitter cuando se saturan las redes con apoyo de *bots* para evitar la fluidez de mensajes considerados inconvenientes.
 
-### Almacenamiento de datos y geolocalización
+### Almacenamiento de datos y geolocalización Google
 
-Empresas como Google son especialistas en almacenamiento de datos, cada búsqueda realizada en su servicio queda registrada y esa información usada para fines de comercio, mientras dependamos de "el gigante de las búsquedas" estamos sujetos a entregar toda nuestra información para su beneficio; incluso [Google acaba de reconocer que revisa los emails de sus usuarios](http://www.capital.cl/negocios/google-reconoce-que-lee-todos-los-correos-de-gmail/).
+Empresas como Google son especialistas en almacenamiento de datos, cada búsqueda realizada en su servicio queda registrada y esa información usada para fines de comercio, mientras dependamos de "el gigante de las búsquedas" estamos sujetos a entregar toda nuestra información para su beneficio; Google acaba de reconocer que revisa los emails de sus usuarios.
 
-Esto se extiende a la geolocalización, es de sorprender el historial de geolocalización de Google Maps, este servicio sabe a dónde va el usuario, la hora, el día exacto, etc. y seguro que el gobierno también puede tener acceso a esta información bajo los mecanismos comentados anteriormente.
-
-[Mire su propio historial de Google Maps](https://maps.google.com/locationhistory/b/0/)
+Esto se extiende a la geolocalización, es de sorprender el historial de geolocalización de Google Maps, este servicio sabe a dónde va el usuario, la hora y el día exacto [Mirar historial de Google Maps](https://maps.google.com/locationhistory/b/0/), seguro que el gobierno también puede tener acceso a esta información bajo los mecanismos comentados anteriormente.
 
 ### Derechos de autor 
 
@@ -57,7 +55,7 @@ No es un secreto que las empresas online también están obligadas, ya mismo, a 
 
 Ligada a la lucha "anti-pirata" los grandes grupos empresariales de medios tienen urgencia por restringir contenidos para elevar sus utilidades, y lo hacen ya de manera fuerte, por ejemplo Televisa y Microsoft tienen un convenio comercial que restringe el acceso a contenidos por medio de software especial que solicita instalarse en el equipo del usuario, y que planean extender por medio de sus servicios como Cablevisión, Veo y Yoo. No es diferente lo que hacen las demás empresas, su estrategia es obligarte a pagar tarde o temprano.
 
-De mayor gravedad es la dependencia tecnológica del gobierno mexicano, pues instancias públicas también obligan a instalar software privado, tal es el caso del SAT, cuya plataforma electrónica para realizar declaración de impuestos sólo funciona en el navegador Internet Explorer de Microsoft, ¿qué garantías tiene un ciudadano de que sus datos son confidenciales o están seguros?
+De mayor gravedad es la dependencia tecnológica del gobierno mexicano, pues instancias públicas también obligan a instalar software privado, tal es el caso del SAT, cuya plataforma para realizar declaración de impuestos sólo funciona en el navegador Internet Explorer de Microsoft, ¿qué garantías tiene un ciudadano de que sus datos son confidenciales o están seguros?
 
 ### La opción libre, no cuesta
 
