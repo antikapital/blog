@@ -2,6 +2,10 @@
 layout: post
 title: "Sobre González Ruíz y el acoso sexual en universidades"
 description: "Honor, abuso, conspitación, persecución"
+image:
+  feature: asesino.jpg
+  credit: Javier Armas
+  creditlink: https://www.flickr.com/photos/javieremot/
 comments: true 
 share: true
 ---
