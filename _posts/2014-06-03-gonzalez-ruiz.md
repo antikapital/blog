@@ -33,14 +33,14 @@ No tomaré partido, por 2 razones; la primera es que no cuento con la informaci�
 
 Me quedo un una crítica sobre como están comunicando su mensaje:
 
-*UACM*
+#### La dministración de la UACM
 
-> Bien que se haga público el dictamen y el proceso que llevó a la destitución, muy bien que se haga eco para combatir el acoso sexual (además muy grave en caso de profesores contra de estudiantes).
+> Bien que se haga público el dictamen y detalles del proceso que llevó a la destitución, también es muy bueno que se haga eco para combatir el acoso sexual (muy grave en caso de profesores contra estudiantes).
 
-> Mal que se recurra al instrumento del abogado para destituir, del mismo modo que en la oscura administración de Esther Orozco y como entonces sigo considerando que el Abogado General no tiene facultades para tal acción.
+> Mal que se recurra al abogado como instrumento para destituir; del mismo modo que en la oscura administración de Esther Orozco ya que, como el los despidos políticos de entonces, sigo considerando que el Abogado General no tiene facultades para tal acción; hacerlo así, denota cierto aire autoritario.
 
-*Defensores de González Ruíz*
+#### Defensores de González Ruíz
 
-> Bien que se adopte postura crítica a la administración universitaria, como a cualquier otro funcionario público del país, también bien que están buscando visibilizar su causa, con perseverancia, pese a lo complicado de enfrentar a una postura oficial, así comienzan todas las grandes acciones.
+> Bien que se adopte postura crítica a la administración universitaria, como debe hacerse con cualquier funcionario público del país (están ahí para servir), también bien que están buscando visibilizar su causa, con perseverancia, pese a lo complicado de enfrentar a una postura oficial, así comienzan todas las grandes acciones.
 
-> Mal que no han unificado un discurso simple que pueda ser transmitido muy claro y con el peso de sus argumentos; y mal también que no han conseguido ganar figuras clave que se sumen a su causa, o mostrar pruebas contundentes.
+> Mal que no han unificado un discurso simple y claro que pueda ser transmitido con todo el peso de sus argumentos; y mal también que no han conseguido ganar actores clave que se sumen a su causa ni han mostrado pruebas contundentes.
