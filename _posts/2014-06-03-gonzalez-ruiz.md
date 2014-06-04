@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sobre González Ruíz y el acoso sexual en universidades"
-description: "Honor, abuso, conspitación, persecución"
+description: "Abuso, conspiración, persecución y verdad"
 image:
   feature: arcoiris.jpg
   credit: Ismael Villafranco CC
